@@ -1,0 +1,26 @@
+{
+  "name": "codepic",
+  "version": "0.1.0",
+  "description": "Code editor with code pics/snippets used",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aakaashkapoor/CodePic.git"
+  },
+  "keywords": [
+    "editor"
+  ],
+  "author": "aakaashkapoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakaashkapoor/CodePic/issues"
+  },
+  "homepage": "https://github.com/aakaashkapoor/CodePic#readme",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
