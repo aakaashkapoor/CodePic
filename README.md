@@ -1,2 +1,2 @@
 # CodePic
-A simple code editor that allows code pics to make taken and used
+A simple code editor that allows code pics to be taken and used elsewhere
